@@ -1,2 +1,2 @@
-# portfilo
-Vüsal Hüseynov - Portfilo 
+# Portfolio
+Simsushi - Portfolio
